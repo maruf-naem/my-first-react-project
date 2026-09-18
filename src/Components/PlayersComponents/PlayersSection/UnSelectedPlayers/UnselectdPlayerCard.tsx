@@ -1,13 +1,18 @@
 
+import { toast } from "react-toastify";
 import type { PlayerType } from "../../../../PlayerType";
 
 interface PlayerProps {
   player: PlayerType;
   handleSelectPLayer: (value: number) => void;
+  isSelected: boolean
 }
 
-const UnselectdPlayerCard = ({ player, handleSelectPLayer }: PlayerProps) => {
-
+const UnselectdPlayerCard = ({
+  player,
+  handleSelectPLayer,
+  isSelected
+}: PlayerProps) => {
   return (
     <div className="card bg-base-100 w-full max-w-xs shadow-md hover:shadow-lg transition-shadow duration-300">
       {/* Player Image */}
@@ -86,9 +91,12 @@ const UnselectdPlayerCard = ({ player, handleSelectPLayer }: PlayerProps) => {
         {/* Select Button */}
         <button
           className="btn btn-primary btn-sm w-full mt-2"
-          onClick={()=>{handleSelectPLayer(player.id)}}
+          onClick={() => {
+            handleSelectPLayer(player.id);
+          }}
+          disabled={isSelected}
         >
-          Select
+          {isSelected ? "Selected" : "Select"}
         </button>
       </div>
     </div>

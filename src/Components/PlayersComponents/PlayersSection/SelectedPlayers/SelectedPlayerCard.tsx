@@ -2,9 +2,13 @@ import type { PlayerType } from "../../../../PlayerType";
 
 interface SelectedPlayerProps {
   SelectedPlayer: PlayerType;
+  handleUnSelect: (value:number)=>void
 }
 
-const SelectedPlayerCard = ({ SelectedPlayer }: SelectedPlayerProps) => {
+const SelectedPlayerCard = ({
+  SelectedPlayer,
+  handleUnSelect
+}: SelectedPlayerProps) => {
   return (
     <div className="group flex w-full min-w-0 items-center gap-3 rounded-2xl border border-gray-100 bg-white p-3 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:border-gray-200 hover:shadow-md">
       <div className="relative shrink-0">
@@ -31,6 +35,9 @@ const SelectedPlayerCard = ({ SelectedPlayer }: SelectedPlayerProps) => {
         <button
           type="button"
           className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-xl text-gray-400 transition-all duration-200 hover:bg-red-50 hover:text-red-500"
+          onClick={() => {
+            handleUnSelect(SelectedPlayer.id);
+          }}
         >
           ×
         </button>

@@ -3,6 +3,7 @@ import "./App.css";
 import Hero from "./Components/HeroComponent/Hero";
 import Nav from "./Components/NavComponents/Nav";
 import Players from "./Components/PlayersComponents/Players";
+import { ToastContainer } from "react-toastify";
 
 const data = async () => {
   const res = await fetch("/Players.json");
@@ -13,6 +14,7 @@ const data = async () => {
 function App() {
   return (
     <>
+    <ToastContainer />
       <Nav />
       <Hero />
       <Suspense fallback={<p>This is Fall Back</p>}>
