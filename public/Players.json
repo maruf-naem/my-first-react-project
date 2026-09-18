@@ -9,11 +9,11 @@
     "jerseyNumber": 10,
     "preferredFoot": "Left",
     "dateOfBirth": "1987-06-24",
-    "height": "1.70 m",
-    "rating": 9.5,
+    "height": "1.70m",
+    "rating": 94,
     "image": "https://placehold.co/400x500?text=Lionel+Messi",
-    "flag": "Argentina",
-    "bio": "Argentine forward known for his dribbling, creativity, passing and exceptional goalscoring ability."
+    "flag": "🇦🇷",
+    "bio": "One of the greatest footballers of all time, known for his dribbling, vision and goalscoring."
   },
   {
     "id": 2,
@@ -25,11 +25,11 @@
     "jerseyNumber": 9,
     "preferredFoot": "Right",
     "dateOfBirth": "1998-12-20",
-    "height": "1.78 m",
-    "rating": 9.6,
+    "height": "1.78m",
+    "rating": 93,
     "image": "https://placehold.co/400x500?text=Kylian+Mbappe",
-    "flag": "France",
-    "bio": "French forward famous for his explosive pace, finishing, dribbling and attacking movement."
+    "flag": "🇫🇷",
+    "bio": "A world-class forward famous for his explosive pace, finishing and attacking movement."
   },
   {
     "id": 3,
@@ -41,27 +41,27 @@
     "jerseyNumber": 9,
     "preferredFoot": "Left",
     "dateOfBirth": "2000-07-21",
-    "height": "1.95 m",
-    "rating": 9.4,
+    "height": "1.95m",
+    "rating": 93,
     "image": "https://placehold.co/400x500?text=Erling+Haaland",
-    "flag": "Norway",
-    "bio": "Norwegian striker renowned for his physical strength, positioning and prolific goalscoring."
+    "flag": "🇳🇴",
+    "bio": "A powerful striker known for his strength, movement and exceptional goal-scoring ability."
   },
   {
     "id": 4,
     "name": "Lamine Yamal",
     "nationality": "Spain",
-    "position": "Right Winger",
+    "position": "Winger",
     "club": "Barcelona",
     "league": "La Liga",
-    "jerseyNumber": 10,
+    "jerseyNumber": 19,
     "preferredFoot": "Left",
     "dateOfBirth": "2007-07-13",
-    "height": "1.80 m",
-    "rating": 9.3,
+    "height": "1.80m",
+    "rating": 90,
     "image": "https://placehold.co/400x500?text=Lamine+Yamal",
-    "flag": "Spain",
-    "bio": "Spanish winger known for his dribbling, creativity, close control and attacking ability."
+    "flag": "🇪🇸",
+    "bio": "A highly talented young winger known for creativity, dribbling and excellent ball control."
   },
   {
     "id": 5,
@@ -73,43 +73,43 @@
     "jerseyNumber": 9,
     "preferredFoot": "Right",
     "dateOfBirth": "1993-07-28",
-    "height": "1.88 m",
-    "rating": 9.2,
+    "height": "1.88m",
+    "rating": 91,
     "image": "https://placehold.co/400x500?text=Harry+Kane",
-    "flag": "England",
-    "bio": "English striker with excellent finishing, passing, positioning and penalty-taking ability."
+    "flag": "🏴",
+    "bio": "A complete striker with excellent finishing, passing and positioning."
   },
   {
     "id": 6,
     "name": "Vinícius Júnior",
     "nationality": "Brazil",
-    "position": "Left Winger",
+    "position": "Winger",
     "club": "Real Madrid",
     "league": "La Liga",
     "jerseyNumber": 7,
     "preferredFoot": "Right",
     "dateOfBirth": "2000-07-12",
-    "height": "1.76 m",
-    "rating": 9.2,
+    "height": "1.76m",
+    "rating": 92,
     "image": "https://placehold.co/400x500?text=Vinicius+Junior",
-    "flag": "Brazil",
-    "bio": "Brazilian winger known for his speed, dribbling, creativity and ability to create chances."
+    "flag": "🇧🇷",
+    "bio": "An explosive winger known for his pace, dribbling and attacking creativity."
   },
   {
     "id": 7,
     "name": "Mohamed Salah",
     "nationality": "Egypt",
-    "position": "Right Winger",
+    "position": "Winger",
     "club": "Liverpool",
     "league": "Premier League",
     "jerseyNumber": 11,
     "preferredFoot": "Left",
     "dateOfBirth": "1992-06-15",
-    "height": "1.75 m",
-    "rating": 9.1,
+    "height": "1.75m",
+    "rating": 91,
     "image": "https://placehold.co/400x500?text=Mohamed+Salah",
-    "flag": "Egypt",
-    "bio": "Egyptian forward known for his pace, left-footed finishing, dribbling and goal contributions."
+    "flag": "🇪🇬",
+    "bio": "A prolific winger known for his speed, left-footed finishing and consistency."
   },
   {
     "id": 8,
@@ -121,27 +121,27 @@
     "jerseyNumber": 5,
     "preferredFoot": "Right",
     "dateOfBirth": "2003-06-29",
-    "height": "1.86 m",
-    "rating": 9.0,
+    "height": "1.86m",
+    "rating": 91,
     "image": "https://placehold.co/400x500?text=Jude+Bellingham",
-    "flag": "England",
-    "bio": "English midfielder known for his versatility, ball carrying, passing and attacking contributions."
+    "flag": "🏴",
+    "bio": "A versatile midfielder with excellent ball control, physical ability and attacking instincts."
   },
   {
     "id": 9,
     "name": "Cristiano Ronaldo",
     "nationality": "Portugal",
     "position": "Forward",
-    "club": "Al-Nassr",
+    "club": "Al Nassr",
     "league": "Saudi Pro League",
     "jerseyNumber": 7,
     "preferredFoot": "Right",
     "dateOfBirth": "1985-02-05",
-    "height": "1.87 m",
-    "rating": 9.1,
+    "height": "1.87m",
+    "rating": 90,
     "image": "https://placehold.co/400x500?text=Cristiano+Ronaldo",
-    "flag": "Portugal",
-    "bio": "Portuguese forward celebrated for his goalscoring, athleticism, heading and finishing."
+    "flag": "🇵🇹",
+    "bio": "A legendary forward recognized for his finishing, athleticism and goal-scoring record."
   },
   {
     "id": 10,
@@ -153,43 +153,43 @@
     "jerseyNumber": 16,
     "preferredFoot": "Right",
     "dateOfBirth": "1996-06-22",
-    "height": "1.91 m",
-    "rating": 9.0,
+    "height": "1.91m",
+    "rating": 91,
     "image": "https://placehold.co/400x500?text=Rodri",
-    "flag": "Spain",
-    "bio": "Spanish midfielder known for his passing, positioning, composure and defensive intelligence."
+    "flag": "🇪🇸",
+    "bio": "A dominant defensive midfielder known for passing, positioning and controlling the tempo."
   },
   {
     "id": 11,
     "name": "Kevin De Bruyne",
     "nationality": "Belgium",
     "position": "Midfielder",
-    "club": "Napoli",
-    "league": "Serie A",
-    "jerseyNumber": 11,
+    "club": "Manchester City",
+    "league": "Premier League",
+    "jerseyNumber": 17,
     "preferredFoot": "Right",
     "dateOfBirth": "1991-06-28",
-    "height": "1.81 m",
-    "rating": 8.9,
+    "height": "1.81m",
+    "rating": 90,
     "image": "https://placehold.co/400x500?text=Kevin+De+Bruyne",
-    "flag": "Belgium",
-    "bio": "Belgian midfielder famous for his vision, passing range, crossing and long-range shooting."
+    "flag": "🇧🇪",
+    "bio": "An elite playmaker famous for his passing range, vision and chance creation."
   },
   {
     "id": 12,
     "name": "Ousmane Dembélé",
     "nationality": "France",
-    "position": "Forward",
+    "position": "Winger",
     "club": "Paris Saint-Germain",
     "league": "Ligue 1",
     "jerseyNumber": 10,
     "preferredFoot": "Left",
     "dateOfBirth": "1997-05-15",
-    "height": "1.78 m",
-    "rating": 9.1,
+    "height": "1.78m",
+    "rating": 90,
     "image": "https://placehold.co/400x500?text=Ousmane+Dembele",
-    "flag": "France",
-    "bio": "French forward known for his pace, two-footed ability, dribbling and creativity."
+    "flag": "🇫🇷",
+    "bio": "A dynamic winger known for his pace, dribbling and ability to play with both feet."
   },
   {
     "id": 13,
@@ -201,11 +201,11 @@
     "jerseyNumber": 11,
     "preferredFoot": "Left",
     "dateOfBirth": "1996-12-14",
-    "height": "1.76 m",
-    "rating": 9.0,
+    "height": "1.76m",
+    "rating": 89,
     "image": "https://placehold.co/400x500?text=Raphinha",
-    "flag": "Brazil",
-    "bio": "Brazilian winger known for his work rate, dribbling, crossing and attacking creativity."
+    "flag": "🇧🇷",
+    "bio": "A creative winger known for his pressing, dribbling and attacking contributions."
   },
   {
     "id": 14,
@@ -217,11 +217,11 @@
     "jerseyNumber": 8,
     "preferredFoot": "Right",
     "dateOfBirth": "1994-09-08",
-    "height": "1.79 m",
-    "rating": 8.9,
+    "height": "1.79m",
+    "rating": 89,
     "image": "https://placehold.co/400x500?text=Bruno+Fernandes",
-    "flag": "Portugal",
-    "bio": "Portuguese attacking midfielder known for his passing, creativity, shooting and chance creation."
+    "flag": "🇵🇹",
+    "bio": "A creative attacking midfielder known for his passing, shooting and leadership."
   },
   {
     "id": 15,
@@ -233,27 +233,27 @@
     "jerseyNumber": 8,
     "preferredFoot": "Right",
     "dateOfBirth": "2002-11-25",
-    "height": "1.74 m",
-    "rating": 8.8,
+    "height": "1.74m",
+    "rating": 88,
     "image": "https://placehold.co/400x500?text=Pedri",
-    "flag": "Spain",
-    "bio": "Spanish midfielder known for his close control, passing, vision and intelligent movement."
+    "flag": "🇪🇸",
+    "bio": "A technically gifted midfielder known for his vision, passing and close control."
   },
   {
     "id": 16,
     "name": "Khvicha Kvaratskhelia",
     "nationality": "Georgia",
-    "position": "Left Winger",
+    "position": "Winger",
     "club": "Paris Saint-Germain",
     "league": "Ligue 1",
     "jerseyNumber": 7,
     "preferredFoot": "Right",
     "dateOfBirth": "2001-02-12",
-    "height": "1.83 m",
-    "rating": 8.9,
+    "height": "1.83m",
+    "rating": 88,
     "image": "https://placehold.co/400x500?text=Kvaratskhelia",
-    "flag": "Georgia",
-    "bio": "Georgian winger known for his dribbling, creativity, ball control and attacking movement."
+    "flag": "🇬🇪",
+    "bio": "A skillful winger known for his creativity, dribbling and unpredictable attacking play."
   },
   {
     "id": 17,
@@ -265,11 +265,11 @@
     "jerseyNumber": 2,
     "preferredFoot": "Right",
     "dateOfBirth": "1998-11-04",
-    "height": "1.81 m",
-    "rating": 8.8,
+    "height": "1.81m",
+    "rating": 89,
     "image": "https://placehold.co/400x500?text=Achraf+Hakimi",
-    "flag": "Morocco",
-    "bio": "Moroccan full-back known for his speed, attacking runs, crossing and defensive work."
+    "flag": "🇲🇦",
+    "bio": "A fast attacking full-back known for his pace, crossing and offensive movement."
   },
   {
     "id": 18,
@@ -281,11 +281,11 @@
     "jerseyNumber": 10,
     "preferredFoot": "Right",
     "dateOfBirth": "1997-08-22",
-    "height": "1.74 m",
-    "rating": 8.9,
+    "height": "1.74m",
+    "rating": 89,
     "image": "https://placehold.co/400x500?text=Lautaro+Martinez",
-    "flag": "Argentina",
-    "bio": "Argentine striker known for his pressing, finishing, movement and ability to combine with teammates."
+    "flag": "🇦🇷",
+    "bio": "A hard-working striker known for his movement, finishing and pressing."
   },
   {
     "id": 19,
@@ -297,11 +297,11 @@
     "jerseyNumber": 10,
     "preferredFoot": "Right",
     "dateOfBirth": "2003-02-26",
-    "height": "1.84 m",
-    "rating": 8.9,
+    "height": "1.84m",
+    "rating": 89,
     "image": "https://placehold.co/400x500?text=Jamal+Musiala",
-    "flag": "Germany",
-    "bio": "German attacking midfielder known for his dribbling, creativity, close control and movement."
+    "flag": "🇩🇪",
+    "bio": "A creative young midfielder known for his dribbling, close control and attacking intelligence."
   },
   {
     "id": 20,
@@ -313,10 +313,10 @@
     "jerseyNumber": 17,
     "preferredFoot": "Right",
     "dateOfBirth": "2000-02-13",
-    "height": "1.72 m",
-    "rating": 8.9,
+    "height": "1.72m",
+    "rating": 88,
     "image": "https://placehold.co/400x500?text=Vitinha",
-    "flag": "Portugal",
-    "bio": "Portuguese midfielder known for his passing, ball control, intelligence and ability to control the tempo."
+    "flag": "🇵🇹",
+    "bio": "A technically excellent midfielder known for his passing, movement and ball retention."
   }
 ]
