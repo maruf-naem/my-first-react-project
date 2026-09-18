@@ -1,5 +1,4 @@
 
-import { toast } from "react-toastify";
 import type { PlayerType } from "../../../../PlayerType";
 
 interface PlayerProps {
